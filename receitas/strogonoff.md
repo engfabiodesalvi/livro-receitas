@@ -1,8 +1,8 @@
-#Strogonoff de Frango :chicken
+# Strogonoff de Frango :chicken:
 
-###Ingredientes
+### Ingredientes
  - 1 quilo de peito de frango sem pele
 
 ###Modo de preparo
 
-1. Em uma panela...
+ 1. Em uma panela...
